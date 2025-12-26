@@ -1,0 +1,14 @@
+ipykernel==6.17.1
+ipympl
+joblib
+jupyterlab
+matplotlib
+notebook
+numpy==1.26.4
+pandas
+pytorch_lightning
+scikit-learn
+scipy
+seaborn
+tensorboard==2.11.0
+torch

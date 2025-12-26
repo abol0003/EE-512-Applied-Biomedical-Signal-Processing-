@@ -1,0 +1,12 @@
+ipympl
+joblib==1.1.1
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+pathlib
+IPython

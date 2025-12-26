@@ -1,0 +1,12 @@
+config:
+  model:
+    config:
+      input_size: 32
+      n_hidden_layers: 2
+      n_units: 128
+      output_size: 1
+    name: mlp
+  optimizer:
+    config:
+      lr: 0.001
+    name: adam

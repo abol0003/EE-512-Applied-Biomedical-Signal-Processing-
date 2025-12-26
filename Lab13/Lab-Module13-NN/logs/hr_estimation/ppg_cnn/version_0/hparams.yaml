@@ -1,0 +1,16 @@
+config:
+  model:
+    dropout: 0.0
+    input_shape: !!python/tuple
+    - 1
+    - 200
+    kernel_size: 5
+    n_convolutional_layers: 4
+    n_dense_layers: 3
+    n_initial_channels: 16
+    n_units: 128
+    output_shape: !!python/tuple
+    - 1
+    use_normalization: false
+  optimizer:
+    lr: 0.0001

@@ -1,0 +1,13 @@
+config:
+  model:
+    config:
+      input_size: 32
+      kernel_size: 3
+      n_initial_channels: 8
+      n_layers: 3
+      output_size: 3
+    name: cnn
+  optimizer:
+    config:
+      lr: 0.0001
+    name: adam
